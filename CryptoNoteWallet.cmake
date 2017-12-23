@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "silkroutecoin")
-set(CN_CURRENCY_DISPLAY_NAME "SilkRouteCoin")
-set(CN_CURRENCY_TICKER "XRT")
+set(CN_PROJECT_NAME "Bitmillion")
+set(CN_CURRENCY_DISPLAY_NAME "Bitmillion")
+set(CN_CURRENCY_TICKER "BTM")
